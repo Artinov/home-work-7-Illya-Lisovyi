@@ -1,0 +1,92 @@
+.wrapper {
+	font-size: 16px;
+}
+
+.navigation {
+	background: #2C3E50;
+}
+
+ul ol {
+	display: inline-block;
+	padding: 10px 20px;
+	color: #fff;
+}
+
+ul ol h1 {
+	padding: 0 550px 0 0;
+}
+
+.jumbotron{
+	text-align: center;
+	background: #18BC9C;
+	color: #fff;
+}
+
+.portfolio h1, h2 {
+	text-align: center;
+}
+
+.portfolio{
+	width: 90%;
+	padding-left: 10%;
+	display: inline-block;
+}
+
+.about {
+	text-align: center;
+	background: #18BC9C;
+	margin: 20px 0px;
+	padding: 40px 50px 50px;
+	color: #fff;
+}
+/*
+div .about p {
+ padding: 50px;
+}
+
+*/
+.about button {
+	background: #18BC9C;
+	border: 2px solid #fff;
+	padding: 10px;
+	border-radius: 5px;
+	display: block;
+	margin-left: calc(50% - 90px);
+}
+
+.contact {
+
+	text-align: center;
+}
+
+input {
+	color: grey;
+	padding: 10px;
+	width: 40%;
+	border: 1px solid grey;
+	border-right: none;
+	border-left: none;
+}
+
+.contact button {
+	background: #18BC9C;
+	color: #fff;
+	border-radius: 10px;
+	padding: 10px ;
+	border: none;
+	margin: 20px 0;	
+}
+
+div .row {
+	background-color: #2C3E50;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+.footer { 
+	background: #233140;
+	color: #fff;
+	text-align: center;
+	padding: 15px;
+}
